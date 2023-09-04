@@ -1,0 +1,7 @@
+This is a brief guide to this repo. I am following along with the practice projects from John Smilga's Javascript Tutorial & Projects course on Udemy. 
+
+My goal is to build my understanding and skills by coding along with each project and reviewing the code to make sure I understand the thinking behind it.
+
+I will also use this as an opportunity to practice using Git and Github. I have created a local repo and will have a branch for each project I work on. I will push each project branch when complete to my remote github repo. 
+
+Thanks for reading!
